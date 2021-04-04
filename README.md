@@ -1,5 +1,5 @@
 # YTDownloadScript
-Script de Python para descargar videos de YouTube de una manera rápida y sencilla.
+Script de Python para descargar videos y audios de YouTube de una manera rápida y sencilla.
 
 
 Instalación y ejecución:
@@ -23,8 +23,7 @@ Nota: El video se guardara en la carpeta donde haya clonado o descargado el Scri
 
                                  ----------------English instructions---------------------
 
-Python script to download YouTube videos quickly and easily.
-
+Python script to download YouTube videos and audios quickly and easily.
 
 Installation and execution:
 
