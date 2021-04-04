@@ -21,6 +21,8 @@ Instrucciones de uso:
 Nota: El video se guardara en la carpeta donde haya clonado o descargado el Script
 
 
+                                 ----------------English instructions---------------------
+
 Python script to download YouTube videos quickly and easily.
 
 
